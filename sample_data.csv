@@ -1,0 +1,13 @@
+Date,Region,Product,Sales,Profit,Quantity,Customer
+2026-01-01,North,Laptop,75000,12000,2,A
+2026-01-02,South,Mobile,25000,5000,3,B
+2026-01-03,East,Tablet,30000,6000,2,C
+2026-01-04,West,Laptop,80000,15000,2,D
+2026-01-05,North,Mobile,20000,3000,4,E
+2026-01-06,South,Laptop,70000,10000,1,F
+2026-01-07,East,Mobile,22000,4000,3,G
+2026-01-08,West,Tablet,35000,7000,2,H
+2026-01-09,North,Laptop,90000,18000,2,I
+2026-01-10,South,Mobile,28000,5500,3,J
+2026-01-11,East,Tablet,32000,6500,2,K
+2026-01-12,West,Laptop,85000,16000,2,L
