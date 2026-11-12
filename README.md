@@ -49,7 +49,7 @@ AI Analytics Copilot/
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/KESHAVBAJAJ3636/AI-Analytics-Copilot.git
 ```
 
 Move into the project directory:
